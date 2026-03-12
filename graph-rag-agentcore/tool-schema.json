@@ -1,0 +1,16 @@
+[
+  {
+    "name": "graph_rag_tool",
+    "description": "Query Graph RAG system via Lambda",
+    "inputSchema": {
+      "type": "object",
+      "properties": {
+        "query": {
+          "type": "string",
+          "description": "User question for Graph RAG"
+        }
+      },
+      "required": ["query"]
+    }
+  }
+]

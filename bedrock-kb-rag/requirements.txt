@@ -1,0 +1,11 @@
+boto3
+requests
+strands-agents
+strands-agents-tools
+langchain
+langchain_aws
+ragas
+tavily-python
+opensearch-py
+urllib3>=2.6.0
+filelock>=3.20.1

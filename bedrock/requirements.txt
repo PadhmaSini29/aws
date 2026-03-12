@@ -1,0 +1,39 @@
+boto3
+pillow
+# -----------------------------
+# Core AWS
+# -----------------------------
+boto3>=1.34.0
+botocore>=1.34.0
+
+# -----------------------------
+# Strands (Agent Runtime)
+# -----------------------------
+strands-agents
+strands-agents-tools
+
+# -----------------------------
+# LangChain Core (new structure)
+# -----------------------------
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+
+# -----------------------------
+# Vector Store (PGVector)
+# -----------------------------
+pgvector
+psycopg2-binary
+SQLAlchemy
+
+# -----------------------------
+# PDF Processing
+# -----------------------------
+pypdf
+
+# -----------------------------
+# Utilities
+# -----------------------------
+python-dotenv
+typing-extensions

@@ -1,0 +1,24 @@
+{
+  "doc_class": "RBI_KYC_CIRCULAR",
+  "key_sections": [
+    {
+      "title": "Mandatory KYC Requirements",
+      "summary": "PAN is mandatory for account opening. Aadhaar is a valid OVD. Form 60 allowed temporarily."
+    },
+    {
+      "title": "Customer Risk Categorization",
+      "summary": "Customers classified into Low, Medium, High risk. High risk requires enhanced due diligence."
+    },
+    {
+      "title": "Non-Compliance",
+      "summary": "Incomplete KYC accounts must be restricted within 30 days."
+    }
+  ],
+  "key_terms": [
+    "PAN",
+    "Aadhaar",
+    "KYC",
+    "High Risk",
+    "Enhanced Due Diligence"
+  ]
+}

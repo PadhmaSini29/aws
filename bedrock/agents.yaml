@@ -1,0 +1,31 @@
+version: "1.0"
+
+agent:
+  name: pdf_rag_agent
+  description: >
+    Local Strands agent that answers questions over PDF documents
+    using AWS Bedrock (Claude 3 / Llama 3) and a PGVector-backed RAG pipeline.
+
+  model:
+    provider: bedrock
+    id: anthropic.claude-3-sonnet-20240229-v1:0
+
+  tools:
+    - ingest_pdfs
+    - rag_query
+
+
+tools:
+  ingest_pdfs:
+    module: agents.tools
+    function: ingest_pdfs
+    description: >
+      Download PDFs from S3, split them into chunks, generate embeddings,
+      and store them in the PGVector database.
+
+  rag_query:
+    module: agents.tools
+    function: rag_query
+    description: >
+      Answer natural-language questions over the ingested PDFs using
+      retrieval-augmented generation (RAG). Supports Claude 3 and Llama 3.

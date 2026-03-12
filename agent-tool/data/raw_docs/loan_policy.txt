@@ -1,0 +1,29 @@
+Internal Loan Approval Policy – Retail Banking
+
+1. Eligibility Criteria
+- Applicant must be a resident Indian citizen
+- Minimum age: 21 years
+- Maximum age at loan maturity: 60 years
+- Minimum monthly income: INR 25,000
+
+2. Documentation
+Mandatory documents include:
+- PAN Card
+- Aadhaar Card
+- Income proof (salary slips or bank statements)
+- Address proof
+
+3. Credit Risk Assessment
+- Credit score must be above 650
+- Applicants with prior loan defaults require manual review
+
+4. Approval Rules
+- Applications meeting all criteria may be auto-approved
+- Applications with missing documents or low credit score must be sent for manual review
+- Applications with fraudulent indicators must be rejected
+
+5. Compliance
+All approvals must comply with RBI KYC and AML guidelines.
+
+Issued by:
+Retail Credit Risk Team

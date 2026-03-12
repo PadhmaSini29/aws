@@ -1,0 +1,21 @@
+{
+  "customer_id": "CUST_10291",
+  "name": "Ramesh Kumar",
+  "age": 32,
+  "citizenship": "Indian",
+  "monthly_income": 22000,
+  "kyc": {
+    "pan": null,
+    "aadhaar": "XXXX-XXXX-1234",
+    "address_proof": "Aadhaar"
+  },
+  "credit_profile": {
+    "credit_score": 680,
+    "existing_loans": 1,
+    "previous_defaults": false
+  },
+  "account_activity": {
+    "avg_monthly_transactions": 85,
+    "high_value_transactions": true
+  }
+}

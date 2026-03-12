@@ -1,0 +1,15 @@
+streamlit
+boto3
+botocore
+langchain
+langchain-community
+pgvector
+psycopg2-binary
+pandas
+pypdf
+pillow
+opencv-python
+openai-whisper
+ffmpeg-python
+matplotlib
+tqdm

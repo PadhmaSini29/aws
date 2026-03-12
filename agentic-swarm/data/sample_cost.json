@@ -1,0 +1,13 @@
+{
+  "time_range": "2025-12-01 to 2025-12-15",
+  "currency": "USD",
+  "services": [
+    {"service": "EC2", "cost": 420.55, "notes": "high on weekends"},
+    {"service": "S3", "cost": 88.10, "notes": "large storage + requests"},
+    {"service": "NAT Gateway", "cost": 160.30, "notes": "steady daily spend"},
+    {"service": "CloudWatch", "cost": 74.90, "notes": "logs increased"}
+  ],
+  "anomalies": [
+    {"date": "2025-12-07", "service": "EC2", "delta": 95.0, "hint": "new instance type?"}
+  ]
+}

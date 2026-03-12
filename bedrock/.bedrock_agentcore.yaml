@@ -1,0 +1,18 @@
+version: "1.0"
+
+project:
+  name: pdf-rag-agent
+  description: PDF RAG Agent using Strands, Bedrock, and PGVector
+
+runtime:
+  language: python
+  python_version: "3.10"
+
+default_agent: pdf_rag_agent
+
+agents:
+  pdf_rag_agent:
+    config: agents.yaml
+
+paths:
+  source: .

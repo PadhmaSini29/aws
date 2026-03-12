@@ -1,0 +1,10 @@
+# requirements.txt
+
+neo4j
+strands-agents
+bedrock-agentcore
+pytest
+requests
+requests-aws4auth
+boto3
+

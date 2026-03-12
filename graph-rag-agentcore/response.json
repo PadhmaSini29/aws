@@ -1,0 +1,1 @@
+{"statusCode": 200, "headers": {"Content-Type": "application/json"}, "body": "{\"tool\": \"graph_context\", \"question\": \"unknown\", \"context\": \"Stub graph context. Next: connect this Lambda to Neo4j.\"}"}

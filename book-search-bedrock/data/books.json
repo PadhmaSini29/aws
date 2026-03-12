@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "description": "A philosophical novel about a shepherd who dreams of finding treasure and learns to listen to his heart and follow his personal legend."
+  },
+  {
+    "id": "2",
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "description": "A practical guide that explains how small daily habits compound into remarkable personal and professional growth over time."
+  },
+  {
+    "id": "3",
+    "title": "1984",
+    "author": "George Orwell",
+    "description": "A dystopian novel depicting a totalitarian society under constant surveillance where independent thought is suppressed."
+  },
+  {
+    "id": "4",
+    "title": "Deep Work",
+    "author": "Cal Newport",
+    "description": "A book that argues the ability to focus deeply without distraction is a critical skill for success in the modern knowledge economy."
+  },
+  {
+    "id": "5",
+    "title": "Man's Search for Meaning",
+    "author": "Viktor E. Frankl",
+    "description": "A memoir and psychological exploration of finding meaning in life through suffering, responsibility, and purpose."
+  },
+  {
+    "id": "6",
+    "title": "The Psychology of Money",
+    "author": "Morgan Housel",
+    "description": "An exploration of how human behavior and emotions influence financial decisions more than logic or technical knowledge."
+  },
+  {
+    "id": "7",
+    "title": "Sapiens: A Brief History of Humankind",
+    "author": "Yuval Noah Harari",
+    "description": "A sweeping history of humanity examining how biology, culture, and ideas shaped modern society."
+  },
+  {
+    "id": "8",
+    "title": "Rich Dad Poor Dad",
+    "author": "Robert T. Kiyosaki",
+    "description": "A personal finance book that contrasts two perspectives on money, assets, and financial independence."
+  },
+  {
+    "id": "9",
+    "title": "The Power of Now",
+    "author": "Eckhart Tolle",
+    "description": "A spiritual guide emphasizing mindfulness, presence, and living fully in the present moment."
+  },
+  {
+    "id": "10",
+    "title": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "description": "A deep dive into human thinking, explaining the two systems that drive decision-making: intuitive and deliberate thought."
+  }
+]

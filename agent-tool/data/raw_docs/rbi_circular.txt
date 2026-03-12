@@ -1,0 +1,39 @@
+Reserve Bank of India (RBI)
+Circular on Know Your Customer (KYC) Guidelines
+
+1. Purpose
+This circular consolidates and updates the Know Your Customer (KYC) norms applicable to all regulated entities including banks, NBFCs, and financial institutions.
+
+2. Mandatory KYC Requirements
+- Permanent Account Number (PAN) is mandatory for opening any savings or current account.
+- Aadhaar may be used as an officially valid document (OVD) for identity and address verification.
+- If PAN is not available, Form 60 must be submitted temporarily, subject to later verification.
+
+3. Address Verification
+- Valid address proof must be obtained before account activation.
+- Acceptable address proof includes Aadhaar, Passport, Voter ID, or Driving License.
+
+4. Customer Risk Categorization
+Customers must be categorized as:
+- Low Risk
+- Medium Risk
+- High Risk
+
+High-risk customers include:
+- Politically Exposed Persons (PEPs)
+- Customers with incomplete KYC
+- Accounts with unusually high transaction volumes
+
+5. Enhanced Due Diligence (EDD)
+For high-risk customers:
+- Additional verification is mandatory
+- Senior management approval is required
+- Transaction monitoring must be enhanced
+
+6. Non-Compliance
+Accounts with incomplete KYC must be restricted within 30 days.
+Failure to comply may lead to account suspension.
+
+Issued by:
+Reserve Bank of India
+Department of Regulation
